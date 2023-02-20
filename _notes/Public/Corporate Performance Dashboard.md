@@ -1,6 +1,7 @@
 ---
 title: Corporate Performance Dashboard
 feed: show
+content-type: dashboard
 date: 20-02-2023 08:58
 ---
 An example how it might look like
