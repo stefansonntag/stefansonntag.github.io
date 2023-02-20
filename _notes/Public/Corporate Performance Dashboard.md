@@ -1,6 +1,5 @@
 ---
 title: Corporate Performance Dashboard
-content-type: static
 feed: show
 date: 20-02-2023 08:58
 ---
