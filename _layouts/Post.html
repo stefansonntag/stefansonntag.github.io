@@ -170,6 +170,14 @@
                         {%- include Content.html -%}
                 </div>
             {%- endif -%}
+
+            <!--- Dashboard Page Layout-->
+            {%- if page.content-type == "dashboard" -%}
+            <div class="column is-12-widescreen  is-12-desktop is-12-tablet is-12-mobile">
+                        <div class="jumbo">{{page.title}}</div>                        
+                        {%- include Content.html -%}
+                </div>
+            {%- endif -%}
         </div>
     </section>   
     {%- include Footer.html -%}             
