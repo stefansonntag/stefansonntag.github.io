@@ -2,7 +2,7 @@
 title: Scribe Test
 format: post
 feed: show
-date: 21-02-2023 06:36
+date: 21-02-2023
 ---
 
 Qlikcloud Workflow ![](Aspose.Words.08add92c-37c3-4404-9f72-862a0386d65d.001.png)
