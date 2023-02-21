@@ -1,6 +1,5 @@
 ---
 title: Scribe Test
-format: post
 feed: show
 date: 21-02-2023
 ---
