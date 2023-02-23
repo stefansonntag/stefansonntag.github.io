@@ -1,7 +1,6 @@
 ---
-title: Data Lineage
+title: What is Data Lineage?
 feed: show
-date : 02-22-2021
 ---
 Data lineage is the process of tracking and documenting the flow of data throughout its lifecycle, from its creation to its final destination. It involves understanding the origin of data, its transformation as it moves through different systems and applications, and its ultimate usage in reports or analysis. Data lineage helps to establish a clear understanding of the data's history, and it provides a comprehensive view of the data's journey from its origin to its end use.
 

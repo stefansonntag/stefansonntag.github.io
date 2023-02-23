@@ -1,7 +1,6 @@
 ---
-title: Data Engineering
+title: What is Data Engineering?
 feed: show
-date : 02-22-2021
 ---
 Data engineering is a broad field that encompasses a wide range of activities related to data management. At its core, data engineering is all about making sure that data is collected, stored, and processed in a way that makes it accessible, reliable, and meaningful to users.
 

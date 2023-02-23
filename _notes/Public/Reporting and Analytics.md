@@ -1,5 +1,5 @@
 ---
-title: The difference between reporting and analytics
+title: What is the difference between Reporting and Analytics?
 feed: show
 date : 01-01-2021
 ---

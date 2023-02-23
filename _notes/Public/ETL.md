@@ -1,7 +1,6 @@
 ---
-title: The Benefits and Drawbacks of ETL
+title: What is ETL?
 feed: show
-date : 02-22-2021
 ---
 
 ETL (Extract, Transform, Load) is a common approach used to integrate and transform data from multiple sources and load it into a target system, such as a data warehouse. ETL has several benefits and drawbacks, which are outlined below.

@@ -1,7 +1,6 @@
 ---
-title: Data Stewardship
+title: What is Data Stewardship?
 feed: show
-date : 02-22-2021
 ---
 Data stewardship is the process of managing, protecting, and maintaining the quality of data within an organization. It involves the responsible management of data assets, including data classification, data lineage, and data quality. Data stewards are responsible for ensuring that data is properly managed throughout its lifecycle, from creation to archival.
 

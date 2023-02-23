@@ -1,7 +1,6 @@
 ---
-title: Data Stacks
+title: What is a Data Stack?
 feed: show
-date : 02-22-2021
 ---
 A data stack, also known as a technology stack, is a collection of software tools and technologies used to process and analyze data. A top data stack typically refers to the most popular and widely used technologies and tools for data processing and analysis. Here are some of the most commonly used components of a top data stack:
 

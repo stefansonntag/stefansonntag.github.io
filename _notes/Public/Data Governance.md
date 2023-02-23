@@ -1,7 +1,6 @@
 ---
-title: Data Governance
+title: What is Data Governance?
 feed: show
-date : 02-22-2021
 ---
 Data governance is the process of managing the availability, usability, integrity, and security of data used by an organization. It involves creating policies, procedures, and standards that define how data is collected, stored, processed, and used within the organization.
 

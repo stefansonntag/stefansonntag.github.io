@@ -1,7 +1,6 @@
 ---
-title: Data Pipelines
+title: What are Data Pipelines?
 feed: show
-date : 02-22-2021
 ---
 
 Data pipelines are a set of processes and tools used to extract, transform, and load (ETL) data from various sources into a target system, such as a data warehouse, data lake, or analytics platform. A data pipeline typically consists of a series of steps that automate the movement and transformation of data, with the goal of ensuring that the data is of high quality, accurate, and readily accessible.

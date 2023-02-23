@@ -1,7 +1,6 @@
 ---
-title: The Benefits and Drawbacks of ELT
+title: What is ELT?
 feed: show
-date : 02-22-2021
 ---
 
 ELT (Extract, Load, Transform) is an alternative approach to ETL, where the data is first extracted from source systems and loaded into a target system, such as a data lake or data warehouse, and then transformed within the target system. ELT has its own set of benefits and drawbacks, which are outlined below.

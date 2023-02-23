@@ -1,7 +1,6 @@
 ---
-title: Business Analytics
+title: What is Business Analytics?
 feed: show
-date : 02-22-2021
 ---
 Business analytics is the practice of using data, statistical methods, and computational techniques to extract insights and knowledge from business data, with the goal of improving business decision-making and outcomes. Business analytics can involve a range of activities, including data mining, predictive modeling, data visualization, and statistical analysis.
 
