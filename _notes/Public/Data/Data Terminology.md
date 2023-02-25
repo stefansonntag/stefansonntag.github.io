@@ -11,6 +11,7 @@ By no means does this collection claim to be complete, nor does it reflect the u
 
 <div class="list-feed">What is [[Big Data]]? </div>
 <div class="list-feed">What is [[Business Analytics]]? </div>
+<div class="list-feed">What is [[Business Intelligence]]? </div>
 <div class="list-feed">What is [[Business Strategy]]? </div>
 <div class="list-feed">What is a [[Dashboard]]? </div>
 <div class="list-feed">What is [[Data Cleaning]]? </div>
