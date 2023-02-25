@@ -1,6 +1,6 @@
 ---
-title: What is Business Strategy?
-feed: show
+title: Business Strategy
+feed: hide
 ---
 Business strategy refers to the set of actions, decisions, and plans that a company undertakes to achieve its long-term goals and objectives. It involves identifying the company's strengths, weaknesses, opportunities, and threats (SWOT analysis), assessing the competitive landscape, and developing a plan to gain a competitive advantage in the market.
 

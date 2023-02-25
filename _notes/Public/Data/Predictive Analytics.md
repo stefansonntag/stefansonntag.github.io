@@ -1,11 +1,11 @@
 ---
-title: What is Predictive Analytics?
-feed: show
+title: Predictive Analytics
+feed: hide
 ---
 
 The amount of data being generated every day is growing at an exponential rate. This vast amount of data provides an opportunity for businesses to gain insights into customer behavior, optimize business processes, and improve decision-making. Predictive analytics is a powerful tool that leverages this data to provide accurate predictions about future events. In this article, we'll explore what predictive analytics is and provide some examples of its application in different industries.
 
-### What is Predictive Analytics?
+### Predictive Analytics?
 
 Predictive analytics is the use of statistical models and machine learning algorithms to analyze historical data and make predictions about future events. It involves applying mathematical algorithms to large datasets to identify patterns and relationships that can be used to forecast future outcomes.
 

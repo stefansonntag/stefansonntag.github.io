@@ -1,6 +1,6 @@
 ---
-title: What is the difference between Reporting and Analytics?
-feed: show
+title: Reporting and Analytics
+feed: hide
 date : 01-01-2021
 ---
 

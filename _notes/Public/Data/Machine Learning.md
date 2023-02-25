@@ -1,6 +1,6 @@
 ---
-title: What is Machine Learning?
-feed: show
+title: Machine Learning
+feed: hide
 ---
 Machine learning is a process of training algorithms to recognize patterns and make predictions or decisions based on data. It is an iterative process, where algorithms are trained on large datasets and then evaluated and refined to improve their performance.
 

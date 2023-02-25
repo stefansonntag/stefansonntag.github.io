@@ -1,9 +1,10 @@
 ---
-title: What is ETL?
-feed: show
+title: ETL
+tags: ETL
+feed: hide
+date: 01-01-2021
 ---
-
-ETL (Extract, Transform, Load) is a common approach used to integrate and transform data from multiple sources and load it into a target system, such as a data warehouse. ETL has several benefits and drawbacks, which are outlined below.
+ETL (Extract, Transform, Load) is a common approach used to integrate and transform data from multiple sources and load it into a target system, such as a [[Data Warehouse]]. ETL has several benefits and drawbacks, which are outlined below.
 
 ### Benefits of ETL:
 
