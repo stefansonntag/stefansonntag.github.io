@@ -1,7 +1,5 @@
 ---
-
 title: What I watch on Youtube
-
 ---
 
 #### Photography

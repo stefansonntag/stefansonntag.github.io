@@ -9,35 +9,33 @@ That said, there really aren't too many terms in that field so I thought I use C
 
 By no means does this collection claim to be complete, nor does it reflect the ultimate truth. Some terms are indeed wider defined than others, but overall the output of ChatGPT is quite correct and represents what I heard consistently over the last decades and what most would understand by these terms, so I consider this to be a reliable and useful starting point.
 
-- What is [[Big Data]]?
-- What is [[Business Analytics]]?
-- What is [[Business Strategy]]?
-- What is a [[Dashboard]]?
-- What is [[Data Cleaning]]?
-- What is [[Data Engineering]]?
-- What is [[Data Governance]]?
-- What is a [[Data Lake]]?
-- What is [[Machine Learning]]?
-- What is [[Data Management]]?
-- What is [[Data Mining]]?
-- What is [[Data Modeling]]
-- What is [[Data Lineage]]?
-- What are [[Data Pipelines]]?
-- What is [[Data Quality]]?
-- What is [[Data Science]]?
-- What are [[Data Stacks]]?
-- What is [[Data Stewardship]]?
-- What is [[Data Transformation]]?
-- What is a [[Data Warehouse]]?
-- What is a [[Database]]?
-- What is [[Database Design]]?
-- What is [[ELT]]?
-- What is [[ETL]]?
-- What is a [[KPI]]?
-- What is [[Metadata]]?
-- What is [[Predictive Analytics]]?
-- What is [[Python]]?
-- What is [[SQL]]?
-- What is the difference between [[Reporting and Analytics]]?
+<div class="list-feed">What is [[Big Data]]? </div>
+<div class="list-feed">What is [[Business Analytics]]? </div>
+<div class="list-feed">What is [[Business Strategy]]? </div>
+<div class="list-feed">What is a [[Dashboard]]? </div>
+<div class="list-feed">What is [[Data Cleaning]]? </div>
+<div class="list-feed">What is [[Data Engineering]]? </div>
+<div class="list-feed">What is a [[Data Lake]]? </div>
+<div class="list-feed">What is [[Data Management]]? </div>
+<div class="list-feed">What is [[Data Mining]]? </div>
+<div class="list-feed">What is [[Data Modeling]]? </div>
+<div class="list-feed">What is [[Data Lineage]]? </div>
+<div class="list-feed">What are [[Data Pipelines]]? </div>
+<div class="list-feed">What is [[Data Quality]]? </div>
+<div class="list-feed">What is [[Data Science]]? </div>
+<div class="list-feed">What are [[Data Stacks]]? </div>
+<div class="list-feed">What is [[Data Stewardship]]? </div>
+<div class="list-feed">What is [[Data Transformation]]? </div>
+<div class="list-feed">What is a [[Data Warehouse]]? </div>
+<div class="list-feed">What is [[Database Design]]? </div>
+<div class="list-feed">What is [[ELT]]? </div>
+<div class="list-feed">What is [[ETL]]? </div>
+<div class="list-feed">What is [[Machine Learning]]? </div>
+<div class="list-feed">What is a [[Metadata]]? </div>
+<div class="list-feed">What is [[Predictive Analytics]]? </div>
+<div class="list-feed">What is [[Python]]? </div>
+<div class="list-feed">What is the difference between [[Reporting and Analytics]]? </div>
+<div class="list-feed">What is [[SQL]]? </div>
+
 
 Note: there are  many commercial products and open source solutions out there which are frequently cited or used in this field. Having some knowledge about what roughly they do has proven to be helpful to structure this domain a bit better. (e.g. what is Spark, SIIS, etc.) 
