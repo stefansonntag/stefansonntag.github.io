@@ -20,7 +20,7 @@ By no means does this collection claim to be complete, nor does it reflect the u
 - What is [[Machine Learning]]?
 - What is [[Data Management]]?
 - What is [[Data Mining]]?
-- What is [[Data Modeling]]?
+- What is [[Data Modeling]]
 - What is [[Data Lineage]]?
 - What are [[Data Pipelines]]?
 - What is [[Data Quality]]?
@@ -34,6 +34,7 @@ By no means does this collection claim to be complete, nor does it reflect the u
 - What is [[ELT]]?
 - What is [[ETL]]?
 - What is a [[KPI]]?
+- What is [[Metadata]]?
 - What is [[Predictive Analytics]]?
 - What is [[Python]]?
 - What is [[SQL]]?

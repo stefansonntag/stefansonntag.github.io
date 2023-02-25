@@ -1,11 +1,11 @@
 ---
 title: Reporting and Analytics
-tags; reporting analytics
+tags: reporting analytics
 feed: hide
 date: 20-02-2023
 ---
 
-The terms reporting and analytics are often used interchangeably. This is not surprising since both take in data as “input” — which is then processed and presented in the form of charts, graphs, or dashboards.
+The terms reporting and analytics are often used interchangeably. Although being incorrect this is not surprising since both take in data as “input” — which is then processed and presented in the form of charts, graphs, or dashboards.
 
 Reports and analytics help businesses improve operational efficiency and productivity, but in different ways. While reports explain what is happening, analytics helps identify why it is happening. Reporting summarizes and organizes data in static formats (list, chart) while analytics enables questioning and exploring that via interaction with the data further. Thus it provides invaluable insights into trends and helps create strategies to help improve operations, customer satisfaction, growth, and other business metrics.
 

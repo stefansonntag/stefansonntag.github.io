@@ -1,6 +1,6 @@
 ---
 title: Dashboard
-feed: show
+feed: hide
 tags: dashboard
 content-type: dashboard
 date: 20-02-2023 08:58

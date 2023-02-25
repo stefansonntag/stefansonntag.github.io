@@ -1,5 +1,6 @@
 ---
-title: Data Modelintags: datamodel
+title: Data Modeling
+tags: datamodel
 feed: hide
 date: 20-02-2023
 ---

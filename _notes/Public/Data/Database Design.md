@@ -1,10 +1,10 @@
 ---
-title: Data Design
-tags: databasedesign database
+title: Database Design
+tags: databasedesign database table SQL
 feed: hide
 date: 20-02-2023
 ---
-Database design is the process of creating a logical and physical model of a database that can efficiently store and retrieve data. It involves defining the structure of the database, including its tables, fields, relationships, and constraints, to ensure that it can meet the needs of its users.
+Database design is the process of creating a logical and physical model of a [[Database]] that can efficiently store and retrieve data. It involves defining the structure of the [[Database]], including its tables, fields, relationships, and constraints, to ensure that it can meet the needs of its users.
 
 The first step in database design is to identify the requirements of the database, including the types of data to be stored, the volume of data, and the anticipated usage patterns. Based on these requirements, the database designer creates a logical data model, which defines the entities, attributes, and relationships of the data.
 
