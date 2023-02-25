@@ -18,20 +18,16 @@ To run analytics, reporting is not necessary.
 For instance, let us take a look at a a typical Salesforce Dashboard 
 
 
-
-!(../assets/img/SalesforceDashboardExample.png)
-
+![[Web/assets/img/SalesforceDashboardExample.png]]
 
 While this dashboard proves very useful information such as different types of leads converting to MQL, it does not help answer the question for example how many MQL converted by lead owner or how many disqualified at a later stage. To answer either one of these questions one will have to run a report and look at the detail data that sits behind a chart. 
 
-
-![](/assets/img/SalesforceReportExample.png)
+![[Web/assets/img/SalesforceReportExample.png]]
 
 Here you get the details, summarized by quarter, so it helps to understand the time aspect, but not the aspect how the data breaks down per lead owner: for that one would have to either count manually (as the information "Lead Owner" is provided in the report) or build a complete new report that summarizes by lead owner instead of quarter. This requires additional manual work, often  done by others who have specialized skills, so a dependency is introduced which leads to delays.
 
 Contrast that with an analytics dashboard
-
-![](/assets/img/QlikDashboardExample.png)
+![[Web/assets/img/QlikDashboardExample.png]]
 
 Here you have both high level summarization of data (the KPIs across the screen, could also be presented as charts) and you have the details that make up the results of the KPI all on the same page, so there is no need to flip between dashboards aand reports. In addition you can filter by various criteria (e.g. quarter, month, region and subregion) in any combination and the data will instantly recalculate the KPI's according to how you set your filters. This is self-service, you don't need anyone to modify existing reports or to build new ones. In addition, you instantly also drill down to the most granular level of the data and can see what causes the KPI results (e.g. a certain campaign does not generate pipe but has more than 100 MQL). That leads to very relevant business questions and decision: Why is that the case, what is special about the campaign? What is missing, what do we need to do? Who else might be needed? 
 
