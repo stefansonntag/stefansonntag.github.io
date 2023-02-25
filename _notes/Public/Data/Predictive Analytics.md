@@ -1,7 +1,6 @@
 ---
 title: Predictive Analytics
 tags: predictiveanalytics
-
 feed: hide
 ---
 
