@@ -1,10 +1,12 @@
 ---
 title: Data Engineering
+tags: dataengineering
 feed: hide
+date: 20-02-2023
 ---
 Data engineering is a broad field that encompasses a wide range of activities related to [[Data Management]]. At its core, data engineering is all about making sure that data is collected, stored, and processed in a way that makes it accessible, reliable, and meaningful to users.
 
-The role of a [[Data Engineer]] is to build and maintain the data infrastructure that supports data analytics, machine learning, and other data-driven applications. This involves designing and building [[Data Pipelines]], a [[Data Warehouse]], or a [[Data Lake]], as well as implementing [[Data Governance]] and security policies.
+The role of a Data Engineer is to build and maintain the data infrastructure that supports [[Reporting and Analytics]], [[Machine Learning]], and other data-driven applications. This involves designing and building [[Data Pipelines]], a [[Data Warehouse]], or a [[Data Lake]], as well as implementing [[Data Governance]] and security policies.
 
 ### How Does Data Engineering Work?
 

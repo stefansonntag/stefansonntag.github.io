@@ -1,7 +1,8 @@
 ---
 title: Reporting and Analytics
+tags; reporting analytics
 feed: hide
-date : 01-01-2021
+date: 20-02-2023
 ---
 
 The terms reporting and analytics are often used interchangeably. This is not surprising since both take in data as “input” — which is then processed and presented in the form of charts, graphs, or dashboards.
@@ -18,7 +19,7 @@ For instance, let us take a look at a a typical Salesforce Dashboard
 
 
 
-![](/assets/img/SalesforceDashboardExample.png)
+!(../assets/img/SalesforceDashboardExample.png)
 
 
 While this dashboard proves very useful information such as different types of leads converting to MQL, it does not help answer the question for example how many MQL converted by lead owner or how many disqualified at a later stage. To answer either one of these questions one will have to run a report and look at the detail data that sits behind a chart. 

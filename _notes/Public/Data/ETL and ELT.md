@@ -2,7 +2,7 @@
 title: ETL and ELT
 tags: ETL, ELT
 feed: hide
-date: 01-01-2021
+date: 20-02-2023
 ---
 [[ETL]] and [[ELT]] are two different approaches to data integration and transformation, with each acronym standing for a specific order of operations.
 

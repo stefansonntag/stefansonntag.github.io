@@ -1,6 +1,7 @@
 ---
 title: Data Terminology
 feed: show
+date: 20-02-2023
 ---
 I've worked in companies that generate their revenue by processing or analyzing data at scale for the last 15 years, i.e. half oy my career. One would assume that in that industry the terminology used by employees regarding the data realm is well defined, i.e. everyone has the same understanding of what they mean when they say for example Data Engineering, Predictive Analytics and so forth. But no. I've spend too many hours in meetings, sales calls etc., chasing down a wrong path, only to find out later that something entirely else was meant by "Dashboard" and a word was used because the speaker "felt" he was using the correct term.
 

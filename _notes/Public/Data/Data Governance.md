@@ -1,6 +1,8 @@
 ---
 title: Data Governance
+tags: datagovernance governance
 feed: hide
+date: 20-02-2023
 ---
 Data governance is the process of managing the availability, usability, integrity, and security of data used by an organization. It involves creating policies, procedures, and standards that define how data is collected, stored, processed, and used within the organization.
 
@@ -12,7 +14,7 @@ Data governance is typically managed by a data governance team or committee, whi
 
 There are many benefits to implementing data governance within an organization. These benefits include:
 
-1.  Improved Data Quality: Data governance helps to ensure that data is accurate, consistent, and up-to-date, which improves the overall quality of the data.
+1.  Improved [[Data Quality]]: Data governance helps to ensure that data is accurate, consistent, and up-to-date, which improves the overall quality of the data.
     
 2.  Increased Compliance: Data governance helps to ensure that the organization is complying with data privacy regulations and industry standards.
     

@@ -1,5 +1,7 @@
 ---
 title: Predictive Analytics
+tags: predictiveanalytics
+
 feed: hide
 ---
 
@@ -18,15 +20,10 @@ One of the key benefits of predictive analytics is that it provides insights tha
 Predictive analytics has a wide range of applications across different industries. Here are some examples:
 
 1.  Healthcare: Predictive analytics is being used to improve patient outcomes by identifying patients who are at risk of developing certain conditions. For example, by analyzing patient data, healthcare providers can identify patients who are at risk of developing diabetes and provide them with targeted interventions to prevent the disease from developing.
-    
 2.  Retail: Predictive analytics is being used to optimize pricing strategies and improve inventory management. By analyzing historical sales data, retailers can identify trends and patterns in customer behavior, and adjust prices and inventory levels to maximize revenue and minimize waste.
-    
 3.  Finance: Predictive analytics is being used to improve risk management and fraud detection. By analyzing customer data, financial institutions can identify patterns of behavior that may indicate fraudulent activity, and take action to prevent it.
-    
 4.  Marketing: Predictive analytics is being used to improve the effectiveness of marketing campaigns. By analyzing customer data, businesses can identify the most effective marketing channels and messages, and tailor their campaigns to maximize engagement and conversion.
-    
 5.  Manufacturing: Predictive analytics is being used to optimize production processes and reduce downtime. By analyzing data from sensors and other devices, manufacturers can identify patterns and anomalies in equipment behavior, and take preventative action to avoid breakdowns and downtime.
-    
 
 ### Conclusion
 

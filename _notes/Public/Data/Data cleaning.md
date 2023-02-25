@@ -1,8 +1,10 @@
 ---
-title: Data cleaning
+title: Data Cleaning
+tags: datacleaning datacleansing scrubbing datascrubbing
 feed: hide
+date: 20-02-2023
 ---
-Data cleaning, also known as data cleansing or data scrubbing, is the process of identifying and correcting errors, inconsistencies, and inaccuracies in a dataset. The main goal of data cleaning is to improve the quality of the data, making it more accurate, reliable, and useful for analysis or other purposes.
+Data cleaning, also known as data cleansing or data scrubbing, is the process of identifying and correcting errors, inconsistencies, and inaccuracies in a dataset. The main goal of data cleaning is to improve [[Data Quality]], making it more accurate, reliable, and useful for analysis or other purposes.
 
 The process of data cleaning typically involves the following steps:
 

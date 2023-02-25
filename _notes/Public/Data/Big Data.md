@@ -1,6 +1,8 @@
 ---
 title: Big Data
+tags: bigdata datalake datawarehouse datascience ETL ELT
 feed: hide
+date: 20-02-2023
 ---
 Big data refers to extremely large and complex datasets that are difficult to process and analyze using traditional data processing techniques. The term "big data" is used to describe datasets that are too large to be handled by traditional software and hardware, and require specialized tools and techniques to store, manage, and analyze.
 
