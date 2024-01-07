@@ -1,0 +1,51 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-FQ0NPQGH4Y"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-FQ0NPQGH4Y');
+        </script>
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
+        <meta property="og:image" content="../assets/img/OGImg.png">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap"
+            rel="stylesheet">
+        {%- if page.title -%}
+        <meta content="{{ page.title }}" property="og:title">
+        <meta content="article" property="og:type">
+        <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+        {%- else -%}
+        <meta content="website" property="og:type">
+        <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+        {%- endif -%}
+
+        <title>{{page.title}} - {{site.heading}}</title>
+        <link rel="canonical" href="{{site.url}}{{page.url}}" />
+        <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/img/profile.png">
+        <link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.png" type="image/png" sizes="16x16" />
+        <link href="{{ site.baseurl }}/assets/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="{{ site.baseurl }}/assets/font/bootstrap-icons.css" rel="stylesheet" />
+        <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+    </head>
+
+    <body>
+        <main>
+            {%- include BS-Nav.html -%}
+            <section class="section">
+                {%- include BS-Content.html -%}
+                {%- include BS-Feed.html -%}
+            </section>   
+            {%- include BS-Footer.html -%}             
+        </main>
+        <script src="{{ site.baseurl }}/assets/js/bootstrap.bundle.min.js" ></script>
+    </body>
+</html>
